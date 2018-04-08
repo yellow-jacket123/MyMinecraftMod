@@ -1,0 +1,1 @@
+{  "forge_marker": 1,  "defaults": {    "model": "examplemod:sorenore"  },  "variants": {    "normal": [{}],    "inventory": [{}]  }}

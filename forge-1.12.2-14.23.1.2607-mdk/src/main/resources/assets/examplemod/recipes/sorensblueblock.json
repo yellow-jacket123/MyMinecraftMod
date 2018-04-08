@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": 
+    [   
+    	"S",
+        "H"
+    ],
+    
+    	"key": 
+    	{
+      	"H": 
+      	{
+        	"item": "minecraft:cobblestone"
+	  	},
+    
+      	"S": 
+	  	{
+         	"item": "minecraft:water_bucket"
+      	}
+	},    
+    
+    "result": 
+    {
+      "item": "examplemod:sorensblueblock",
+      "count": 9
+    }
+}

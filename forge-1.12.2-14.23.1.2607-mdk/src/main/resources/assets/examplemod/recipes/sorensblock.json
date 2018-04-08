@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": 
+    [
+        "B",
+        "S"
+    ],
+
+    "key": 
+    {
+        "S": 
+        {
+            "item": "minecraft:cobblestone"
+        },
+        
+        "B": 
+		{
+            "item": "minecraft:lava_bucket"
+        }
+    },
+
+    "result": 
+    {
+        "item": "examplemod:sorensblock",
+		"count": 9
+    }
+}

@@ -1,0 +1,1 @@
+{  "forge_marker": 1,  "defaults": {    "model": "examplemod:sorensblueblock"  },  "variants": {    "normal": [{}],    "inventory": [{}]  }}

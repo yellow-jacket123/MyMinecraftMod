@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": 
+    [   
+	"HSH"
+    ],
+    
+    	"key": 
+    	{
+      	"H": 
+      	{
+        	"item": "minecraft:coal"
+	  	},
+    
+      	"S": 
+	  	{
+         	"item": "minecraft:poisonous_potato"
+      	}
+	},    
+    
+    "result": 
+    {
+      "item": "examplemod:itemchips",
+      "count": 1
+    }
+}

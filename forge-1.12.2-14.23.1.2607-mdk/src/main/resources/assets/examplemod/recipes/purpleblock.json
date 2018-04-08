@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern": 
+    [
+        "B",
+        "S"
+    ],
+
+    "key": 
+    {
+        "S": 
+        {
+            "item": "minecraft:concrete"
+        },
+        
+        "B": 
+		{
+            "item": "minecraft:dye"
+	    "data": 5
+        }
+    },
+
+    "result": 
+    {
+        "item": "examplemod:sorensblock",
+		"count": 9
+    }
+}

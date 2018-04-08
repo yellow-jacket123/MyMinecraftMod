@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": 
+    [   
+    	"H H",
+	"HHH",
+	"HHH"
+    ],
+    
+    	"key": 
+    	{
+      	"H": 
+      	{
+            "item": "examplemod:soreningot"
+	}
+	},    
+    
+    "result": 
+    {
+      "item": "examplemod:sorenschestplate",
+      "count": 1
+    }
+}

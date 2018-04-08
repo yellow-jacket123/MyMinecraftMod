@@ -1,0 +1,15 @@
+tile.examplemod.sorensblock.name=Lava Block
+tile.examplemod.sorensblueblock.name=Blue Block
+tile.examplemod.purpleblock.name=Purple Block
+item.examplemod.sorensseconditem.name=Soren's Pickaxe
+item.examplemod.sorensitem.name=Soren's Sword
+item.examplemod.anotheritem.name=Soren's Shovel
+item.examplemod.thirdsorensitem.name=Soren's Axe
+item.examplemod.sorensfood.name=French Fries
+item.examplemod.itemchips.name=Potato Chips
+item.examplemod.sorenshelmet.name=Soren's Helmet
+item.examplemod.soreningot.name=Soren Ingot
+tile.examplemod.sorenore.name=Soren Ore
+item.examplemod.sorenschestplate.name=Soren's Chestplate
+item.examplemod.sorensleggings.name=Soren's Leggings
+item.examplemod.sorensboots.name=Soren's Boots

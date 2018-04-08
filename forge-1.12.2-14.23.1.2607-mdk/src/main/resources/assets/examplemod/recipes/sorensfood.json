@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": 
+    [   
+    	" H ",
+	"HSH",
+        " H "
+    ],
+    
+    	"key": 
+    	{
+      	"H": 
+      	{
+        	"item": "minecraft:coal"
+	  	},
+    
+      	"S": 
+	  	{
+         	"item": "minecraft:poisonous_potato"
+      	}
+	},    
+    
+    "result": 
+    {
+      "item": "examplemod:sorensfood",
+      "count": 1
+    }
+}
